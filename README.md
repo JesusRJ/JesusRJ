@@ -3,7 +3,7 @@
 - 🚀 Atualmente trabalho como Engenheiro de Software no `Inter`.
 - 🌱 Estou me aprofundando em Golang e técnicas de programação.
 - 💬 Gosto de falar sobre Linux 🐧, Kubernetes, Docker, DevOps, IOT, eletrônica e Golang.
-- 🪚 Além disso curto um pocuo de marcenaria e serralheria ;).
+- 🪚 Além disso curto um pouco de marcenaria e serralheria ;).
 
 <!---
 JesusRJ/JesusRJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
